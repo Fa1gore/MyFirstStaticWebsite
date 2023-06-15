@@ -1,12 +1,12 @@
 /* styles.css */
 body {
   font-family: Arial, sans-serif;
-  background-color: #f1f1f1;
+  background-color: black;
+  text-decoration-color: white;
 }
 
 h1 {
   color: #333;
-  text-align: center;
 }
 
 p {
